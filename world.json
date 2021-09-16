@@ -1,0 +1,1 @@
+{"id":0,"worldName":"tutorial","entites":[{"type":"entityplayer","id":3,"title":"Bird","posX":0.0,"posZ":7.0,"agressive":false,"maxHealth":150,"health":100,"attackDamage":6,"target":null,"nickname":"Alina","exp":500.0,"dead":false}]}
